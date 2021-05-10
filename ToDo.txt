@@ -1,0 +1,19 @@
+
+User Interface
+	- format the numbers in a kind way that is more sudoku looking
+	- control where the solution window pops up	
+
+Logic layer
+	- solver to determine difficulty
+	- xwing
+	- canidate list
+	- change the way difficulty is reported(bools that rate the puzzle)
+	- Single Canidate probably belongs in Puzzle Entity
+
+Data Access
+	- my understanding of oop has come a long way. Setup puzzle could use some work.
+	- add a break/condition to trash the puzzle if it isn't viable
+	- utilize the Difficulty class better
+
+Puzzle Entity
+	- add a break/condition to trash the puzzle if it isn't viable
